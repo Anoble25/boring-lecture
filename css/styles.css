@@ -25,3 +25,14 @@ img{
 .intro > a{
   font-size: 100px;
 }
+
+.p1{
+  background-color: #800000;
+  border: 3.5px solid black;
+
+}
+
+.p2{
+  background-color: #FFFF00;
+  border: 3.5px solid black;
+}
